@@ -7,5 +7,5 @@ m2
 .metadata
 .project
 *.directory
-.setting
+.settings
 *.tar
