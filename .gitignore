@@ -8,4 +8,4 @@ m2
 .project
 *.directory
 .settings
-*.tar
+*.tar*
