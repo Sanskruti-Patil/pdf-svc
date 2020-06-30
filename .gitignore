@@ -6,4 +6,6 @@ m2
 .classpath
 .metadata
 .project
+*.directory
+.setting
 *.tar
